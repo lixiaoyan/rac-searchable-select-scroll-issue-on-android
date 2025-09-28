@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin 'tailwindcss-react-aria-components';
+@plugin 'tailwindcss-animate';
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
